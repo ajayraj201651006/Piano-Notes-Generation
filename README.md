@@ -1,6 +1,6 @@
 # Music-Generator-Deep-Learning-
 
-![Let Deep Learning create a new piano masterpiece for you!](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj8hPvjo9LgAhXPXisKHUFtCB4QjRx6BAgBEAU&url=https%3A%2F%2Fwww.hackerearth.com%2Fblog%2Fmachine-learning%2Fjazz-music-using-deep-learning%2F&psig=AOvVaw3wDLNvuTkyY4kNaNodfIJK&ust=1551025862056871)
+![Let Deep Learning create a new piano masterpiece for you!](https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2018/05/8.jpg)
 ## Dive right in!
 `https://github.com/ajayraj201651006/Piano-Notes-Generation.git-/`</br>
 `python predict.py`</br>
