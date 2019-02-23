@@ -2,7 +2,7 @@
 
 ![Let Deep Learning create a new piano masterpiece for you!](http://blog.niland.io/wp-content/uploads/2015/07/deep_learning_music-446x335.jpg)
 ## Dive right in!
-`git clone https://github.com/shivamsaboo17/Music-Generator-Deep-Learning-/`</br>
+`https://github.com/ajayraj201651006/Piano-Notes-Generation.git-/`</br>
 `python predict.py`</br>
 #### You now have an output midi file ready to be played on VLC / *any media player*<br><br>
 ## Training your own model
