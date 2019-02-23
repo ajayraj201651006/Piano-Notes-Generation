@@ -1,4 +1,4 @@
-# Music-Generator-Deep-Learning-
+# Pino-Music-Generator-Deep-Learning-
 
 ![Let Deep Learning create a new piano masterpiece for you!](https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2018/05/8.jpg)
 ## Dive right in!
